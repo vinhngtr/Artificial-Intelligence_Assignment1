@@ -1,0 +1,7 @@
+simanneal
+psutil
+pyautogui
+pydirectinput
+Pillow
+keyboard
+numpy
